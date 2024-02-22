@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FactoryApp</string>
+    <string name="app_name_login">Factory Solution</string>
+    <string name="app_name_login_KR">팩토리 솔루션</string>
+    <string name="TeamEditTextHint">Team</string>
+    <string name="LoginEditTextHint">Login</string>
+</resources>
